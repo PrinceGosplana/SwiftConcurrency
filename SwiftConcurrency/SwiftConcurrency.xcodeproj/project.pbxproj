@@ -12,6 +12,12 @@
 		8AFE180C2BBC4A16002CC3AA /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8AFE180B2BBC4A16002CC3AA /* Preview Assets.xcassets */; };
 		8AFE18132BBC4A68002CC3AA /* DoTryCatchThrowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AFE18122BBC4A68002CC3AA /* DoTryCatchThrowView.swift */; };
 		8AFE18152BBC5449002CC3AA /* DownloadImageAsync.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AFE18142BBC5449002CC3AA /* DownloadImageAsync.swift */; };
+		8AFE18172BBD33A5002CC3AA /* AsyncAwaitView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AFE18162BBD33A5002CC3AA /* AsyncAwaitView.swift */; };
+		8AFE18192BBD3F22002CC3AA /* TaskView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AFE18182BBD3F22002CC3AA /* TaskView.swift */; };
+		8AFE181B2BBD660B002CC3AA /* AsyncLetView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AFE181A2BBD660B002CC3AA /* AsyncLetView.swift */; };
+		8AFE181D2BBD6FC8002CC3AA /* TaskGroupView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AFE181C2BBD6FC8002CC3AA /* TaskGroupView.swift */; };
+		8AFE181F2BBD82C3002CC3AA /* CheckedContinuationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AFE181E2BBD82C3002CC3AA /* CheckedContinuationView.swift */; };
+		8AFE18212BBE7EBA002CC3AA /* ActorыView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AFE18202BBE7EBA002CC3AA /* ActorыView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +27,12 @@
 		8AFE180B2BBC4A16002CC3AA /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		8AFE18122BBC4A68002CC3AA /* DoTryCatchThrowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DoTryCatchThrowView.swift; sourceTree = "<group>"; };
 		8AFE18142BBC5449002CC3AA /* DownloadImageAsync.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadImageAsync.swift; sourceTree = "<group>"; };
+		8AFE18162BBD33A5002CC3AA /* AsyncAwaitView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncAwaitView.swift; sourceTree = "<group>"; };
+		8AFE18182BBD3F22002CC3AA /* TaskView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskView.swift; sourceTree = "<group>"; };
+		8AFE181A2BBD660B002CC3AA /* AsyncLetView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncLetView.swift; sourceTree = "<group>"; };
+		8AFE181C2BBD6FC8002CC3AA /* TaskGroupView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskGroupView.swift; sourceTree = "<group>"; };
+		8AFE181E2BBD82C3002CC3AA /* CheckedContinuationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckedContinuationView.swift; sourceTree = "<group>"; };
+		8AFE18202BBE7EBA002CC3AA /* ActorыView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ActorыView.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +68,12 @@
 				8AFE18042BBC4A14002CC3AA /* SwiftConcurrencyApp.swift */,
 				8AFE18122BBC4A68002CC3AA /* DoTryCatchThrowView.swift */,
 				8AFE18142BBC5449002CC3AA /* DownloadImageAsync.swift */,
+				8AFE18162BBD33A5002CC3AA /* AsyncAwaitView.swift */,
+				8AFE18182BBD3F22002CC3AA /* TaskView.swift */,
+				8AFE181A2BBD660B002CC3AA /* AsyncLetView.swift */,
+				8AFE181C2BBD6FC8002CC3AA /* TaskGroupView.swift */,
+				8AFE181E2BBD82C3002CC3AA /* CheckedContinuationView.swift */,
+				8AFE18202BBE7EBA002CC3AA /* ActorыView.swift */,
 				8AFE18082BBC4A16002CC3AA /* Assets.xcassets */,
 				8AFE180A2BBC4A16002CC3AA /* Preview Content */,
 			);
@@ -141,7 +159,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				8AFE18052BBC4A14002CC3AA /* SwiftConcurrencyApp.swift in Sources */,
+				8AFE181B2BBD660B002CC3AA /* AsyncLetView.swift in Sources */,
 				8AFE18152BBC5449002CC3AA /* DownloadImageAsync.swift in Sources */,
+				8AFE18172BBD33A5002CC3AA /* AsyncAwaitView.swift in Sources */,
+				8AFE18192BBD3F22002CC3AA /* TaskView.swift in Sources */,
+				8AFE18212BBE7EBA002CC3AA /* ActorыView.swift in Sources */,
+				8AFE181F2BBD82C3002CC3AA /* CheckedContinuationView.swift in Sources */,
+				8AFE181D2BBD6FC8002CC3AA /* TaskGroupView.swift in Sources */,
 				8AFE18132BBC4A68002CC3AA /* DoTryCatchThrowView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

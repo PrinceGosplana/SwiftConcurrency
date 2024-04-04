@@ -9,7 +9,7 @@ import SwiftUI
 
 final class DownloadImageAsyncImageLoader {
 
-    let url = URL(string: "Https://picsum.photos/200")!
+    let url = URL(string: "https://picsum.photos/200")!
 
     func handleResponse(data: Data?, response: URLResponse?) -> UIImage? {
         guard let data,
