@@ -18,6 +18,7 @@
 		8AFE181D2BBD6FC8002CC3AA /* TaskGroupView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AFE181C2BBD6FC8002CC3AA /* TaskGroupView.swift */; };
 		8AFE181F2BBD82C3002CC3AA /* CheckedContinuationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AFE181E2BBD82C3002CC3AA /* CheckedContinuationView.swift */; };
 		8AFE18212BBE7EBA002CC3AA /* ActorыView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AFE18202BBE7EBA002CC3AA /* ActorыView.swift */; };
+		8AFE18232BBEDB5E002CC3AA /* GlobalActorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AFE18222BBEDB5E002CC3AA /* GlobalActorView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +34,7 @@
 		8AFE181C2BBD6FC8002CC3AA /* TaskGroupView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskGroupView.swift; sourceTree = "<group>"; };
 		8AFE181E2BBD82C3002CC3AA /* CheckedContinuationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckedContinuationView.swift; sourceTree = "<group>"; };
 		8AFE18202BBE7EBA002CC3AA /* ActorыView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ActorыView.swift"; sourceTree = "<group>"; };
+		8AFE18222BBEDB5E002CC3AA /* GlobalActorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GlobalActorView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +76,7 @@
 				8AFE181C2BBD6FC8002CC3AA /* TaskGroupView.swift */,
 				8AFE181E2BBD82C3002CC3AA /* CheckedContinuationView.swift */,
 				8AFE18202BBE7EBA002CC3AA /* ActorыView.swift */,
+				8AFE18222BBEDB5E002CC3AA /* GlobalActorView.swift */,
 				8AFE18082BBC4A16002CC3AA /* Assets.xcassets */,
 				8AFE180A2BBC4A16002CC3AA /* Preview Content */,
 			);
@@ -162,6 +165,7 @@
 				8AFE181B2BBD660B002CC3AA /* AsyncLetView.swift in Sources */,
 				8AFE18152BBC5449002CC3AA /* DownloadImageAsync.swift in Sources */,
 				8AFE18172BBD33A5002CC3AA /* AsyncAwaitView.swift in Sources */,
+				8AFE18232BBEDB5E002CC3AA /* GlobalActorView.swift in Sources */,
 				8AFE18192BBD3F22002CC3AA /* TaskView.swift in Sources */,
 				8AFE18212BBE7EBA002CC3AA /* ActorыView.swift in Sources */,
 				8AFE181F2BBD82C3002CC3AA /* CheckedContinuationView.swift in Sources */,
